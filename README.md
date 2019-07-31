@@ -28,7 +28,7 @@ Laravel is accessible, yet powerful, providing tools needed for large, robust ap
 
 ## Example configuration in `.env` file for Email and SMS
 
-	```json
+```json
 
 		MAIL_DRIVER=mailgun
 		MAILGUN_DOMAIN=mg.example.com
@@ -56,7 +56,7 @@ Laravel is accessible, yet powerful, providing tools needed for large, robust ap
 		EMAIL_VALIDATE_API=xxxxxxxxxxxxxxxxx
 		EMAIL_VALIDATE_STRICT=xxxxxxxxxxxxxxxxxxx
 
-  ```
+```
 
 ## Credits
 

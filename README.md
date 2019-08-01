@@ -19,10 +19,10 @@ Laravel is accessible, yet powerful, providing tools needed for large, robust ap
 ## Usage
 
 - Clone the project and install required packages using `composer install` command
-- Run composer `php artisan key:generate` to generate new APP_KEY
 - Copy `.env.example` to `.env`, then setup your database configuration at `.env` file
 - Update [Mail driver](https://laravel.com/docs/5.8/mail), [Nexmo SMS](https://laravel.com/docs/5.8/notifications#sms-notifications) for sending Email and SMS
 - See `config/support.php` file for more detail information to config [Phone](https://numverify.com) and [Email](https://mailboxlayer.com) validation.
+- Run composer `php artisan key:generate` to generate new APP_KEY
 - Generate database table using `php artisan migrate` command
 - Run `php artisan route:list` command to see available routes
 
